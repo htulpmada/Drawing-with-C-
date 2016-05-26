@@ -2,7 +2,6 @@
     APPLICATION : Dominoes Project Overview
 ========================================================================
 
-AppWizard has created this Dominoes Application for you.  
 
 This file contains a summary of what you will find in each of the files that
 make up your Dominoes application.
